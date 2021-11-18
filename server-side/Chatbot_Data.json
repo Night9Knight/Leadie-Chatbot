@@ -1,0 +1,267 @@
+[
+  {
+    "categories": "course",
+    "question": "CPT111",
+    "answer": "CPT111 is Principles of Programming. It's a 3 unit course for 1st Year.#It's a core course.#There are no prerequisite for this course.#It's offered in Semester 1 and Semester 2.#The main emphasis of the course is on the basic principles of programming using the C++ programming language. This course covers basic concepts of computer system, introduction to problem solving techniques, basics of programming, control structures, modular programming, data file processing, reference variable, pointers and one dimensional array."
+  },
+  {
+    "categories": "course",
+    "question": "CPT112",
+    "answer": "CPT112 is Discrete Structures. It's a 4 unit course for 1st Year.#It's a core course.#There are no prerequisite for this course.#It's offered in Semester 1.#Discrete mathematics is the study of mathematical structures that are fundamentally discrete. Discrete structure serves as a fundamental concept which lies at the core of a Computer Science study. Computer system is essentially a finite discrete system which understanding such system can be aided by modelling it as a discrete mathematical system."
+  },
+  {
+    "categories": "course",
+    "question": "CPT113",
+    "answer": "CPT113 is Programming Methodology & Data Structures. It's a 3 unit course for 1st Year.#It's a core course.#It's required to pass CPT111 with at least C Grade to take this course.#It's offered in Semester 1 and Semester 2.#This course exposes students to data structures e.g. dynamic arrays, lists, stacks, queues, and fundamental binary trees. This course also strengthens further programming skills in C++ using computational thinking methods through topics that include recursion, object oriented design, data abstraction, and classes. This course gives fundamental knowledge on abstract data types and data structures in problem solving."
+  },
+  {
+    "categories": "course",
+    "question": "CPT115",
+    "answer": "CPT115 is Mathematical Methods for Computer Science. It's a 4 unit course for 1st Year.#It's a core course.#It's required to take CPT111 in the previous or current semester to take this course.#It's offered in Semester 2.#Mathematical methods play a significant role in Computer Science. This course combines fundamental mathematics concepts with practical analysis through the use of MATLAB as a software tool. Concepts covered include Matrices, Vectors, Complex Numbers, Numerical Analysis, and Introduction to Simulation and Statistics. The applications of these concepts in the field of Computer Science are demonstrated along with the mathematical concepts in an integrated manner."
+  },
+  {
+    "categories": "course",
+    "question": "CST131",
+    "answer": "CST131 is Computer Organisation. It's a 4 unit course for 1st Year.#It's a core course.#There are no prerequisite for this course.#It's offered in Semester 1.#This course introduces the structure and functional units of the computer that are responsible for storing and processing information. It focuses on the functioning of individual components, interaction between components, techniques and technologies used, various number systems and simple digital logic circuits."
+  },
+  {
+    "categories": "course",
+    "question": "CPC151",
+    "answer": "CPC151 is Fundamentals of Logic and Artificial Intelligence. It's a 4 unit course for 1st Year.#It's a core course.#It's required to take CPT111 in the previous or current semester to take this course.#It's offered in Semester 2.#This course introduces basic logic concepts and techniques in constructing and evaluating　arguments including forming a standard argument, differentiating validity of argument,　applying rules to prove validity of arguments. In addition, it also exposes students to　basic approaches of fundamental artificial intelligence, including basic search strategies,　basic knowledge representation and reasoning and basic machine learning."
+  },
+  {
+    "categories": "course",
+    "question": "CPT212",
+    "answer": "CPT212 is Design & Analysis of Algorithms. It's a 4 unit course for 2nd Year.#It's a core course.#It's required to take CPT113 in the previous semester to take this course.#It's offered in Semester 2.#The essence of this course is on advanced data structures and the design and analysis of algorithms. The course covers a broad range of algorithms and their analysis in OOP environment that include sorting, searching, and graph algorithms. The course also introduces algorithms for string processing, memory management, and advanced topics on algorithms."
+  },
+  {
+    "categories": "course",
+    "question": "CMT221",
+    "answer": "CMT221 is Database Organisation and Design. It's a 4 unit course for 2nd Year.#It's a core course.#It's required to take CPT111 in the previous semester to take this course.#It's offered in Semester 1 and Semester 2.#The course starts with the discussion on the importance of data to an organisation and how the data should be processed and managed. Then the concept of database is introduced. Database management system (DBMS) will be viewed as a solution to the problems of file processing system. Aspects of relational database design will be covered in detail. Students will also be guided through the database development life cycle, database architecture, various data models, and normalisation process. Database implementation will be covered in the discussion of query languages such as SQL and QBE. The course ends with some discussions on selected current topics in database technologies. The students’ understanding is further enhanced by the implementation of phased project assignments throughout the course."
+  },
+  {
+    "categories": "course",
+    "question": "CST232",
+    "answer": "CST232 is Operating Systems. It's a 3 unit course for 2nd Year.#It's a core course.#It's required to take CPT111 in the previous semester to take this course.#It's offered in Semester 1.#To understand the workings of an entire computer system, it begins with an understanding of an operating system. It is because operating system manages every piece of hardware and software. This course is to explore what operating systems are, how they work, what they do and why. Therefore, this course introduces the basic principles of operating system such as memory management, process management, file and device management as well as system programming."
+  },
+  {
+    "categories": "course",
+    "question": "CST235",
+    "answer": "CST235 is Principles of Computer Networks and Information Security. It's a 4 unit course for 2nd Year.#It's a core course.#It's required to take CPT111 in the previous semester to take this course.#It's offered in Semester 1.#This course exposes to the students the general knowledge, principles and technologies that are related to the network system and security in computing contexts. For the network system aspects, students are exposed to the principals of data communications, architecture and types of network such as LAN, WAN, Internet: network topology, network protocols, network models especially OSI and TCP/IP also standard used in regards to addressing, IPv6. For security aspects, students are exposed to the general knowledge of security which is concepts and models of CIA (Confidentiality, Integrity, Availability); risk concepts, threat, weaknesses and attack also its vector; The principals of authentication and authorization and access control; trust and trustworthiness concepts, and secure system development. Besides, students will be exposed with knowledge about threat to human resources and the roles that should be played by them in security system."
+  },
+  {
+    "categories": "course",
+    "question": "CSE241",
+    "answer": "CSE241 is Foundations of Software Engineering. It's a 4 unit course for 2nd Year.#It's a core course.#It's required to take CMT221 in the previous semester to take this course.#It's offered in Semester 2.#This course describes the foundations of software engineering including aspects of software processes, requirements engineering, system modelling, system architecture and system design, system implementation, system testing, system maintenance and project management. The focus is on the discipline required as best practice, in the process of software development. The modelling that needs to be learned in system specification includes use cases using the UML approach. Examples of systems and case studies will be discussed to enable students to build their knowledge in system theory and application. Emphasis on real systems through software development processes using the Agile method, begins with the requirements engineering up to the project management process. Approaches to practical issues will be given to enable students to build theoretical and application knowledge in software engineering through theoretical description and illustration, as well as system prototype development and case studies using the UML approach."
+  },
+  {
+    "categories": "course",
+    "question": "CAT201",
+    "answer": "CAT201 is Integrated Software Development Workshop. It's a 2 unit course for 2nd Year.#It's a core course.#It's required to take CPT113 in the previous or current semester to take this course.#It's offered in Semester 1.#This course introduces the practical aspects of collaborative software development and　graphics programming especially in JAVA programming, and web platform-based　development. Basic concepts of human-computer interaction are also provided especially　from the aspects of usability, user-centric design and GUI evaluation. Students are taught　various models of software development, pair-programming and code management techniques. Students are required to put into practice the taught concepts through a GUIbased software development project."
+  },
+  {
+    "categories": "course",
+    "question": "CPC251",
+    "answer": "CPC251 is Machine Learning and Computational Intelligence. It's a 3 unit course for 2nd Year.#It's a major core course for Intelligent Computing.#It's required to take CPT113 and CPC151 in the previous semester to take this course.#It's offered in Semester 2.#The first part of the course introduces methods of learning from data and explains the concepts behind various machine learning techniques. The course covers the basics of both supervised and unsupervised learning paradigms. Students will learn to identify the characteristics of datasets, select features and machine learning algorithms, evaluate the performance of the machine learning models, and work on how to get the best performance. Students will also practice to construct machine learning models by integrating machine learning libraries and tools for various datasets and case studies. The second part of the course introduces the various techniques of computational intelligence. Various knowledge sources that are relevant to computational intelligence problems will be discussed. Students will also be exposed to advanced knowledge representation and reasoning approaches."
+  },
+  {
+    "categories": "course",
+    "question": "CST236",
+    "answer": "CST236 is Digital Systems Design. It's a 3 unit course for 2nd Year.#It's a major core course for Computing Infrastructure.#It's required to take CST131 and CST235 in the previous semester to take this course.#It's offered in Semester 2.#This course aims are to make sure student able to analyze, design and evaluate digital system circuits, of medium complexity, that are based on microcontroller interfacing with MWICOM and related electronic devices to construct a functional digital system."
+  },
+  {
+    "categories": "course",
+    "question": "CSE242",
+    "answer": "CSE242 is Software Requirements Analysis & Modelling. It's a 3 unit course for 2nd Year.#It's a major core course for Software Engineering.#It's required to take CMT221 and CSE241 in the previous or current semester to take this course.#It's offered in Semester 2.#This course provides an intensive focus on conceptual and practical aspect in carrying a good software requirement activity in software product development. Software requirement is basically an early activity of any software product development and several key topics are covered specifically on two main tasks namely elicitation stage and modeling stage. The elicitation stage emphasize on the techniques and methods during information gathering in understanding the customers and software problem. Techniques such as focus group, stakeholder analysis, feasibility studies are the main key topics as it refines the problem faced by the customers. Next key topic is the software modeling stage in which emphasize on the techniques and styles of transforming the information obtained during the elicitation stage into a good software model. UML based modeling technique is applied in a great extend toward establishing software models. Student will be exposed to a real life stories and experiences related to software requirement task. Team project assignment will be given with the main focus is to practice elicitation and modeling activities."
+  },
+  {
+    "categories": "course",
+    "question": "CAT302",
+    "answer": "CAT302 is Industrial Training. It's a 12 unit course for 3rd Year.#It's a core course.#It's required to attain CGPA of 2.0, accumulated 60 credits, holding an active academic status, attained Band 4 in MUET or at least a C in LMT100-Prepatory English, has a possibility of graduating within 3 semesters after the completion of Industrial Training, took and passed CPT111, CPT113, CST131, CMT221, CSE241, and CAT201 with minimum GPA of 2.0 in the previous semester as well as taking CAT304 at the time of application for this course.#It's offered in Semester 2.#This course provide students with an opportunity to familiarise themselves with the operations, administration and organisational development of a computer department or organisation. It also allow students to observe computing applications in daily practice. It expose students to \"real\" working situations and the problems normally encountered by an organisation. It also enable organisations to identify appropriate good students as their potential employees upon graduation."
+  },
+  {
+    "categories": "course",
+    "question": "CAT304",
+    "answer": "CAT304 is Group Innovation Project and Study For Sustainability. It's a 3 unit course for 3rd Year.#It's a core course.#It's required to take CSE241 in the previous semester to take this course.#It's offered in Semester 1.#The main objective of this course is to expose students to the basic skills in conducting professional software development projects and technical study in a group that is infused with innovation and sustainable elements. In addition, this course aims to train students in the research process, literature review, writing a project report and technical paper, presenting papers and demonstrating software. The course also serves as a preparation for the industrial training and final year major project."
+  },
+  {
+    "categories": "course",
+    "question": "CPT316",
+    "answer": "CPT316 is Programming Language Implementation and Paradigms. It's a 3 unit course for 3rd Year.#It's a major core course for Intelligent Computing and Computing Infrastructure.#It's required to take CPT113 in the previous semester to take this course.#It's offered in Semester 1.#The essence of this course is to expose students to the existence of various programming language paradigms and implementation. Knowledge of programming language paradigm and implementation is very important for students in choosing the appropriate programming language to effectively solve programming problems. Students will be exposed to basic concepts of implementation such as components involved in the compilation and interpretation of programming languages. This course also covers the basic concepts of programming language paradigm such as basic data types and program control structures. The paradigms of the programming language involved are imperative (object), function and logic."
+  },
+  {
+    "categories": "course",
+    "question": "CSE341",
+    "answer": "CSE341 is Software Architecture and Design. It's a 3 unit course for 3rd Year.#It's a major core course for Software Engineering.#It's required to take CMT221 and CSE241 in the previous or current semester as well as CPT113 in the previous semester to take this course.#It's offered in Semester 1.#This course introduces students to the discipline of software architecture and design. It covers the architectural activities and the related decisions about the design and implementation of a software architecture. Other topics covered are architecture documentation, quality attributes and architecture evaluation."
+  },
+  {
+    "categories": "course",
+    "question": "CPC351",
+    "answer": "CPC351 is Principles of Data Analytics. It's a 3 unit course for 3rd Year.#It's a field elective course.#It's required to take CPT113 and CPC151 in the previous semester to take this course.#It's offered in Semester 1.#This course introduces the basic goals and techniques in data science and analytics process with some theoretical foundations which include machine learning concepts so that the process can transform hypotheses and data into actionable predictions. The course provides basic principles on important steps of the process which include data collecting, curating and analysing, building predictive models and reporting and presenting results to audiences of all levels. R programming language technique is introduced based on examples such as from marketing, business intelligence and decision support"
+  },
+  {
+    "categories": "course",
+    "question": "CPC352",
+    "answer": "CPC352 is Multimedia Systems and Interactive Design. It's a 3 unit course for 3rd Year and 4th Year.#It's a field elective course.#It's required to take CPT113 and CPC151 in the previous semester to take this course.#It's offered in Semester 1.#This course aims to provide the fundamental knowledge on multimedia systems, applications and components, and interactive design. Students will be exposed to the multimedia technology, the process of multimedia system development and current issues in the multimedia technology as well as process and principles of interactive design."
+  },
+  {
+    "categories": "course",
+    "question": "CPC353",
+    "answer": "CPC353 is Natural Language Processing. It's a 3 unit course for 3rd Year.#It's a field elective course.#It's required to take CPT113 and CPC151 in the previous semester to take this course.#It's offered in Semester 1.#Natural language processing is one of the fundamental courses in the area of artificial intelligence and big data analysis. This course introduces fundamental concepts in text and speech processing to students. Students will be introduced to the elementary knowledge and processing in speech such as the physics, phoneme, formant, pronunciation model, and speech features. In the text processing, preprocessing and modelling techniques such as tokenization, stemming, morphological analysis, sequence modelling, grammar, parsing, and semantic modelling will be discussed. The concepts and techniques will also be demonstrated in applications such as text classification, information retrieval, machine translation and automatic speech recognition."
+  },
+  {
+    "categories": "course",
+    "question": "CPC354",
+    "answer": "CPC354 is Computer Graphics and Visualisation. It's a 3 unit course for 3rd Year.#It's a field elective course.#It's required to take CPT113 and CPC151 in the previous semester to take this course.#It's offered in Semester 1.#This course provides a comprehensive knowledge and an in-depth understanding in computer graphics and basic visualisation. The course introduces graphics systems and models, graphics programming, and input and interaction in interactive graphics. Geometric objects and transformations and viewing transformation are also covered. The course concludes with discussion on shading, discrete techniques, implementation of graphics primitives, modelling and visualization technique."
+  },
+  {
+    "categories": "course",
+    "question": "CPC355",
+    "answer": "CPC355 is Computer Vision and Robotics. It's a 3 unit course for 4th Year.#It's a field elective course.#It's required to take CPT113 and CPC151 in the previous semester to take this course.#It's offered in Semester 1.#This course provides a brief introduction to the basic concepts of formation, representation, enhancement of digital images, and robotics foundations. It introduces concepts and methodologies for image segmentation, feature extraction and applications of robotic vision. It incorporates applications to gain experience in the design and implementation of image analysis algorithms and vision-based control for robotics."
+  },
+  {
+    "categories": "course",
+    "question": "CPC356",
+    "answer": "CPC356 is Mobile and Game Platform-based Development. It's a 3 unit course for 4th Year.#It's a field elective course.#It's required to take CPT113 and CPC151 in the previous semester to take this course.#It's offered in Semester 1.#This course provides an intensive focus on conceptual and practical aspect in platformbased development especially on Mobile and games platform. Platform-based development refers to the design and development of software applications that reside on specific software platform. In contrast to general purpose programming, platform-based development takes into account platform-specific constraints. Development based on mobile, multimedia or games platform are some of the examples of relevant platform which provide specific services (such as APIs) and special hardware with screen size, processing power and power source which can restrict the system development. Through this course, student will design and develop mobile/game application as project assignment as an effort to expose student with the latest development techniques based on selected platforms."
+  },
+  {
+    "categories": "course",
+    "question": "CMT321",
+    "answer": "CMT321 is Management and Engineering of Databases. It's a 3 unit course for 3rd Year and 4th Year.#It's a field elective course.#It's required to take CMT221 and CSE241 in the previous or current semester as well as CPT113 in the previous semester to take this course.#It's offered in Semester 1.#The first part of this course covers concepts, techniques and protocols related to transaction, concurrency control, recovery and security of databases. In the second part of the course, students will learn about the characteristics, components and data design of other types of databases (distributed databases, object-oriented databases) as well as data warehouse, OLAP and data mining. Students also will investigate issues and latest development in database applications and technologies."
+  },
+  {
+    "categories": "course",
+    "question": "CMT322",
+    "answer": "CMT322 is Web Engineering & Technologies. It's a 3 unit course for 3rd Year and 4th Year.#It's a field elective course.#It's required to take CMT221 and CSE241 in the previous or current semester as well as CPT113 in the previous semester to take this course.#It's offered in Semester 1.#Web Engineering introduces a structured methodology utilized in software engineering to Web development projects. The course address the concepts, methods, technologies, and techniques of developing Web sites that collect, organize and expose information resources. Topics covered include requirements engineering for Web applications, design methods and technologies, interface design, usability of web applications, accessibility, testing, metrics, operation and maintenance of Web applications, security, and project management."
+  },
+  {
+    "categories": "course",
+    "question": "CMT323",
+    "answer": "CMT323 is Information Systems Theory and Management. It's a 3 unit course for 3rd Year.#It's a field elective course.#It's required to take CMT221 and CSE241 in the previous or current semester as well as CPT113 in the previous semester to take this course.#It's offered in Semester 1.#Information systems are enablers for modern organizational activities, as well as drivers of new and modified goals and activities. Information Systems management is very much related to the organizational strategy, goals and operations. At the same time, the technical nature of information systems and the rapid changes in technology make unique demands to managers. This course provides the basis for understanding the role and activities of information systems in organizations. It is also a valuable complement to the theoretical and technical material you have studied in other courses."
+  },
+  {
+    "categories": "course",
+    "question": "CSE342",
+    "answer": "CSE342 is Dependable Software Systems Engineering. It's a 3 unit course for 3rd Year.#It's a field elective course.#It's required to take CMT221 and CSE241 in the previous or current semester as well as CPT113 in the previous semester to take this course.#It's offered in Semester 1.#This course provides a firm foundation of computer system dependability by covering the conceptual and definition of dependable system, what it means for a system to be dependable, fault/failure models and how to build a dependable software system and present rigorous techniques that can improve the quality of software."
+  },
+  {
+    "categories": "course",
+    "question": "CST330",
+    "answer": "CST330 is Network Programming. It's a 3 unit course for 3rd Year.#It's a field elective course.#It's required to take CST131 and CST235 in the previous semester to take this course.#It's offered in Semester 1.#This course is designed to prepare a solid foundation in network programming for students, to enable them to develop client-server, peer-to-peer and other types of networked applications. In addition, it provides an opportunity for students to improve their programming skills in the network computing field."
+  },
+  {
+    "categories": "course",
+    "question": "CST337",
+    "answer": "CST337 is Network Configuration and Protocols. It's a 3 unit course for 3rd Year and 4th Year.#It's a field elective course.#It's required to take CST131 and CST235 in the previous semester to take this course.#It's offered in Semester 1.#This course introduces network management principles, theories and practices, including the implementation and administration of network core services in a network environment. This course provides a handy laboratory experience in managing router configuration, DHCP, DNS, distance access, security and network management services. This course also discusses the network and firewall security, as well as the use of the Access Control List (ACL) to control network access. In addition, this course is also a course that prepares students to take Huawei Certified Network Analyst (HCNA) certification exams."
+  },
+  {
+    "categories": "course",
+    "question": "CST338",
+    "answer": "CST338 is Network and Communication Security. It's a 3 unit course for 3rd Year and 4th Year.#It's a field elective course.#It's required to take CST131 and CST235 in the previous semester to take this course.#It's offered in Semester 1.#This course presents fundamentals of network monitoring and network security. In network monitoring, it covers the fundamentals of packet capture, packet analysis, and monitoring element placement and enterprise monitoring. In network security, it covers network security devices, internet security, abnormalities within networks, policies, audits and cyber terrorism."
+  },
+  {
+    "categories": "course",
+    "question": "CST339",
+    "answer": "CST339 is Information Security Management and Assurance. It's a 3 unit course for 3rd Year.#It's a field elective course.#It's required to take CST131 and CST235 in the previous semester to take this course.#It's offered in Semester 1.#This course exposes to the students the fundamentals of information security andassurance in modern organization. Student also will be introduced to the principles and planning techniques and development of managerial strategy for information security and assurance. It can be noted that information security in modern organization is management problem and not only the solution in the context of technology. In the planning and information security development aspects, students will be exposed to the planning for information security, planning for contingency, information security policy, the development of security programs. In addition, models and practices of security management also will be explained. For the information security risk management, students will be exposed to the identification, evaluation and information security risk management control. Student will be also exposed to the information security protection mechanism that is currently used. Student will be explained on information on human resources, the need of SETA (security education, training and awaraness), also the legals and ethics related to the information security management."
+  },
+  {
+    "categories": "course",
+    "question": "CAT402",
+    "answer": "CAT402 is Professional and  Technopreneurship Development. It's a 2 unit course for 4th Year.#It's a core course.#It's required to take CAT302 in the previous semester to take this course.#It's offered in Semester 1.#This course is divided into three main components. The first part covers professionalism aspects in computing / software engineering (including relevant professional bodies) in comparison to other professionals (such as doctors, lawyers, engineers). It also discusses issues and concern that a computing professional should be aware of and dealt with. This includes ethical, legal and social implications in computing and techno-business, intellectual property, cyber crime and cyberlaws, freedom of speech, privacy, etc. The second part discusses about career development in computing field, exploring career opportunities and development such as job application and hunting skills, job interviews, career path and graduate studies. The third part covers the “alternative employment” option i.e. creating employment via entrepreneurship with ICT-based products/services i.e. technopreneurship. It discusses ICT business plan development, from defining the business idea until a business plan is created. Students will be given understanding of five stages of entrepreneurship cycle: 1) New venture development, 2) Start-up activities, 3) Venture growth, 4) Business stabilization, and 5) Innovation or decline. A series of workshops/seminars are planned where speakers/technopreneurs are invited to talk on related topics or share their experience with the students."
+  },
+  {
+    "categories": "course",
+    "question": "CAT405",
+    "answer": "CAT405 is Intelligent Computing Major Project. It's a 8 unit course for 4th Year.#It's a major core course for Intelligent Computing.#It's required to take CAT302 in the previous semester to take this course.#It's offered in Semester 1 and Semester 2.#This course gives an opportunity to students to carry out an in-depth study of intelligent computing area. This course also enhances student's competence in systems design, analysis of algorithms and using theories that they have learnt from Year I to Year III. Students will build intelligent/smart system or application using appropriate programming languages and tools. This course gives students an intellectual challenge to their abilities to learn new topics without formal classes and to further develop their abilities in literature searching, report writing, verbal presentation, project planning and time management."
+  },
+  {
+    "categories": "course",
+    "question": "CST435",
+    "answer": "CST435 is Principles of Parallel Computing. It's a 3 unit course for 4th Year.#It's a major core course for Intelligent Computing and Computing Infrastructure.#It's required to take CST131 and CST235 in the previous semester to take this course.#It's offered in Semester 1.#This course provides comprehensive knowledge and in-depth understanding of parallel computing (multi-core). Students will be exposed to the design and implementation of parallel algorithms. These topics include parallel architecture, data parallelism, shared memory programming, message passing (communication), parallel design and modeling. It also features the latest parallel technology development using graphic processing units. Students will be exposed to the development, implementation and performance analysis of parallel-based programs using different platforms and application programming interfaces (API). The general comparison of parallel and distributed computing concepts will also be touched in this course."
+  },
+  {
+    "categories": "course",
+    "question": "CST431",
+    "answer": "CST431 is Systems Security and Protection. It's a 3 unit course for 4th Year.#It's a major core course for Computing Infrastructure.#It's required to take CST131 and CST235 in the previous semester to take this course.#It's offered in Semester 2.#In this course, various concepts of computing systems security architecture, operating systems security modes, and recovery procedures and security control models are discussed. For the aspects of computer system operations and protection, students will be exposed to methodologies of various attacks especially on operating systems, databases, and applications; backup and recovery techniques; security evaluation; and implementation of operational protection. Students will be explained in detail, control and protection techniques for multiuser operating systems i.e. Windows, and UNIX or Linux; and database systems. For the aspect of physical systems security, student will be exposed to physical security risks and various mitigations techniques."
+  },
+  {
+    "categories": "course",
+    "question": "CAT403",
+    "answer": "CAT403 is Computing Infrastructure Major Project. It's a 8 unit course for 4th Year.#It's a major core course for Computing Infrastructure.#It's required to take CAT302 in the previous semester to take this course.#It's offered in Semester 1 and Semester 2.#This course gives an opportunity to students to carry out an in-depth study of the computing infrastructure area. This course also enhances student's competence in algorithm/protocol design, analysis of algorithms/protocols and using theories that they have learnt from Year I to Year III. Students will evaluate their chosen algorithm/protocol using suitable programming/research techniques. This course gives students an intellectual challenge to their abilities to learn new topics without formal classes and to further develop their abilities in literature searching, report writing, verbal presentation and time management."
+  },
+  {
+    "categories": "course",
+    "question": "CSE441",
+    "answer": "CSE441 is Software Process and Quality Assurance. It's a 3 unit course for 4th Year.#It's a major core course for Software Engineering.#It's required to take CMT221 and CSE241 in the previous or current semester as well as CPT113 in the previous semester to take this course.#It's offered in Semester 1.#This course introduces students to the concepts of software processess, software process models, and software quality assurance (SQA), as well as its standard practice and management. These include the quality concepts in software development and/or production, quality management process and software measurement."
+  },
+  {
+    "categories": "course",
+    "question": "CSE442",
+    "answer": "CSE442 is Software Testing. It's a 3 unit course for 4th Year.#It's a major core course for Software Engineering.#It's required to take CMT221 and CSE241 in the previous or current semester as well as CPT113 in the previous semester to take this course.#It's offered in Semester 2.#This course introduces students to the theory and practice of software testing. The discussion of the course focuses on the importance of software testing in producing a quality software. This includes the study on the fundamentals of testing which includes the principles of testing, unit testing, integration testing, system testing, regression testing, acceptance testing and test plan. Besides that, this course also introduces test design techniques, test management, and tool support for testing."
+  },
+  {
+    "categories": "course",
+    "question": "CAT404",
+    "answer": "CAT404 is Software Engineering Major Project. It's a 8 unit course for 4th Year.#It's a major core course for Software Engineering.#It's required to take CAT302 in the previous semester to take this course.#It's offered in Semester 1 and Semester 2.#This course provides students with an opportunity to undertake a substantial software engineering project. The software project is structured as a collection of documentation and code deliverables. This project requires a significant amount of work and demands good teamwork between 4-6 people where students develop a software solution with real-world application in their place of business. The course integrates software engineering knowledge and skills acquired in previous courses: agile project management, requirements engineering, architecture and design, implementation, integration and testing. It gives students an intellectual challenge to their abilities to learn new topics without formal classes, and to further develop their abilities in literature searching, report writing, verbal presentation and time management."
+  },
+  {
+    "categories": "course",
+    "question": "CPC451",
+    "answer": "CPC451 is Big Data Technologies and Management. It's a 3 unit course for 4th Year. #It's a field elective course.#It's required to take CPT113 and CPC151 in the previous semester to take this course.#It's offered in Semester 2.#Managing big data addresses different issues compared to conventional databases. The course includes fundamental on big data technologies, management related issues and understanding of various storage infrastructure. The course provides exposure on recent technologies in manipulating, managing and analyzing big data. The technologies include but not limited to Hadoop, MongoDB and Apache Cassandra."
+  },
+  {
+    "categories": "course",
+    "question": "CPC452",
+    "answer": "CPC452 is Animation & Virtual Reality. It's a 3 unit course for 4th Year.#It's a field elective course.#It's required to take CPT113 and CPC151 in the previous semester to take this course.#It's offered in Semester 2.#For the part on animation, the course covers animation techniques and technologies, motion capture, procedural animation and deformation. In the second part which is virtual reality (VR), the course covers VR techniques and systems that include display and devices, collision detection, visibility, time critical rendering as well as VR technology, modelling, user interface, and applications in various fields."
+  },
+  {
+    "categories": "course",
+    "question": "CMT425",
+    "answer": "CMT425 is Enterprise Architecture and Systems. It's a 3 unit course for 4th Year.#It's a field elective course.#It's required to take CMT221 and CSE241 in the previous or current semester as well as CPT113 in the previous semester to take this course.#It's offered in Semester 2.#Enterprise architecture (EA) is a practice to strategically utilize technology to improve performance of an enterprise through holistic view in terms of strategy, business process, information flow and technical resources. It is also known as a strategy and businessdriven activity that support business planning and decision-making. It includes people, technologies and the activities for designing and describing enterprises through a sets of artefacts. This course explains the fundamental concepts, implementation methodology, management planning as well as use and maintenance of EA. EA3 cube framework /approach is introduced as the main implementation methodology in this course. Various approaches in implementing EA for different types of organization are also discussed."
+  },
+  {
+    "categories": "course",
+    "question": "CMT426",
+    "answer": "CMT426 is Business Intelligence and Analytics. It's a 3 unit course for 4th Year.#It's a field elective course.#It's required to take CMT221 and CSE241 in the previous or current semester as well as CPT113 in the previous semester to take this course.#It's offered in Semester 2.#This course is about Internet-based enterprise systems for business analytics and business intelligence and business analytics. This course would lead to the understanding, innovative application and exploitation of the current service-oriented software tools, techniques and approaches related to data mining and data mapping, business and competitive intelligence, as well as business performance measurement and analytics."
+  },
+  {
+    "categories": "course",
+    "question": "CMT427",
+    "answer": "CMT427 is Information Storage and Retrieval . It's a 3 unit course for 4th Year.#It's a field elective course.#It's required to take CMT221 and CSE241 in the previous or current semester as well as CPT113 in the previous semester to take this course.#It's offered in Semester 2.#This course introduces fundamental concepts, methods and models of information storage and retrieval, In order to enhance their understanding of the applications in this area, students will be exposed to various aspects of information retrieval from user interfaces, modelling, retrieval functions, indexing, retrieval service architecture and applications in related domains. Student will be given hands-on on open source retrieval tool to develop solutions related to information storage and retrieval."
+  },
+  {
+    "categories": "course",
+    "question": "CSE443",
+    "answer": "CSE443 is Real Time Software Engineering. It's a 3 unit course for 4th Year.#It's a field elective course.#It's required to take CMT221 and CSE241 in the previous or current semester as well as CPT113 in the previous semester to take this course.#It's offered in Semester 2.#This course provides a firm foundation on the knowledge, skills and techniques required to develop and produce real-time systems, and in particular, embedded systems that include the requirement analysis and specifications, software design and program design. Introduction to real-time operating system, diagramming method, planning and developing software and software development tools are also discussed The preparation of documentation is also emphasised for the development of real-time systems with current examples."
+  },
+  {
+    "categories": "course",
+    "question": "CST432",
+    "answer": "CST432 is Microprocessors and Embedded Systems. It's a 3 unit course for 4th Year.#It's a field elective course.#It's required to take CST131 and CST235 in the previous semester to take this course.#It's offered in Semester 2.#This course is an introduction to microprocessors and embedded systems. The use of Assembly Language in programming the microprocessor will be learnt via theory and practical components."
+  },
+  {
+    "categories": "course",
+    "question": "CST434",
+    "answer": "CST434 is Wireless Networks and Mobile Computing. It's a 3 unit course for 4th Year.#It's a field elective course.#It's required to take CST131 and CST235 in the previous semester to take this course.#It's offered in Semester 2.#This course provides vital up-to-date knowledge in wireless and mobile computing industry focusing on the eco-system of Devices, Network and Applications (DNA). The course focuses on three core aspects of the field, wireless transmission, mobile radio technologies and mobility, handover and routing. The course also covers many emerging trends in the field such as mobile terminal technologies, autonomous networks and crosslayer middleware."
+  },
+  {
+    "categories": "course",
+    "question": "CST436",
+    "answer": "CST436 is Digital Forensics and Investigations. It's a 3 unit course for 4th Year.#It's a field elective course.#It's required to take CST131 and CST235 in the previous semester to take this course.#It's offered in Semester 2.#This course introduces basic knowledge and techniques in computer forensics and digital investigations. Starting with an overview of digital career analysts, issues in the investigation and digital forensic analysis in the evolution of evidence, methods of controlling and preserving evidence, and techniques for manual interpretation of raw binary data will be detailed. This course also aims to help students perform tasks as digital forensic analysts to help students in understanding the key principles, techniques, and requirements related to digital investigations, particularly the legal framework that must be observed in finding and collecting, and maintaining and ensuring the integrity of digital evidence. Students will also be trained to master some advanced techniques in rare digital forensics but arise consistently in the context of corporate investigations. In addition, relevant technical and legal difficulties in the search, extraction, maintenance and storage of digital evidence will be explained in accordance with the legal implications of such inquiry and the rules of the legal procedure relating to electronic evidence."
+  },
+  {
+    "categories": "course",
+    "question": "CST437",
+    "answer": "CST437 is Distributed & Cloud Computing. It's a 3 unit course for 4th Year.#It's a field elective course.#It's required to take CST131 and CST235 in the previous semester to take this course.#It's offered in Semester 2.#This course focuses on concepts and principles that arise in the design and implementation of cloud applications. Topics covered includes cloud computing evolution, cross-layer communications, job status & machine state, cloud service models, cloud system architecture, resource allocation and scheduling, virtualization and isolation, reliability through redundancy, cloud computing pratical skills and advanced topics."
+  },
+  {
+    "categories": "course",
+    "question": "CST438",
+    "answer": "CST438 is Cryptography and Security Applications. It's a 3 unit course for 4th Year.#It's a field elective course.#It's required to take CST131 and CST235 in the previous semester to take this course.#It's offered in Semester 2.#This course exposes students to the basics of cryptography and its applications. Cryptographic theories, principles and techniques that are used to ensure security properties such as confidentiality, integrity, and authenticity will be discussed. Topics include historical cryptography, encryption, authentication, public-key cryptography, number theory, key exchange, digital signatures. The course also discusses topics on the applications and future of cryptography such as quantum cryptography and cryptocurrency."
+  },
+  {
+    "categories": "course",
+    "question": "CPT411",
+    "answer": "CPT411 is Automata Theory and Formal Languages. It's a 3 unit course for 4th Year.#It's a major core course for Intelligent Computing.#It's required to take CPT113 and CPC151 in the previous semester to take this course.#It's offered in Semester 2.#This course introduces students to the theoretical foundation of computer science. It deals with the definitions and properties of mathematical models of computation. Students will learn finite state machines, regular grammars and regular expressions that are used to solve problems that can be encoded as regular languages. Besides, finite state transducers and weighted finite state machines are also taught. The properties of regular languages will be discussed. Students will also learn pushdown automata and context free grammars to solve problem that can be defined as context free languages. The properties of context free languages will be discussed. Finally, students will learn Turing machine which is the theoretical computation model that can be used to model any algorithms that modern computer can do."
+  }
+]
